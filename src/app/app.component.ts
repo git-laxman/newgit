@@ -9,4 +9,5 @@ export class AppComponent {
   title = 'newgit';
   name = 'User';
   hiello = 'nothionmg';
+  newmod = "new thing"
 }
