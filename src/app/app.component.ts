@@ -10,5 +10,4 @@ export class AppComponent {
   name = 'User';
   hiello = 'nothionmg';
   newmod = "new thing" ;
-  newwords = "new";
 }
